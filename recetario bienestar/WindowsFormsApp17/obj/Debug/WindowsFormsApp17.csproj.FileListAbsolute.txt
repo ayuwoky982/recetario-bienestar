@@ -1,0 +1,99 @@
+G:\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.exe.config
+G:\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.exe
+G:\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.pdb
+G:\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csproj.AssemblyReference.cache
+G:\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Form1.resources
+G:\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Form2.resources
+G:\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Form3.resources
+G:\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Form4.resources
+G:\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Form5.resources
+G:\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Properties.Resources.resources
+G:\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csproj.GenerateResource.cache
+G:\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csproj.CoreCompileInputs.cache
+G:\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.exe
+G:\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.pdb
+G:\WindowsFormsApp17\bin\Debug\MySql.Data.dll
+G:\WindowsFormsApp17\bin\Debug\MySql.Data.xml
+G:\WindowsFormsApp17\obj\Debug\WindowsF.E63CBB31.Up2Date
+E:\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.exe.config
+E:\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.exe
+E:\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.pdb
+E:\WindowsFormsApp17\bin\Debug\MySql.Data.xml
+E:\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csproj.AssemblyReference.cache
+E:\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.exe.config
+E:\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Form1.resources
+E:\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Form2.resources
+E:\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Form3.resources
+E:\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Form4.resources
+E:\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Properties.Resources.resources
+E:\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csproj.GenerateResource.cache
+E:\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csproj.CoreCompileInputs.cache
+E:\WindowsFormsApp17\obj\Debug\WindowsF.E63CBB31.Up2Date
+E:\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.exe
+E:\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.pdb
+D:\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.exe.config
+D:\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.exe
+D:\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.pdb
+D:\WindowsFormsApp17\bin\Debug\System.Memory.dll
+D:\WindowsFormsApp17\bin\Debug\System.Numerics.Vectors.dll
+D:\WindowsFormsApp17\bin\Debug\MySql.Data.xml
+D:\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csproj.AssemblyReference.cache
+D:\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.exe.config
+D:\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Form1.resources
+D:\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Form2.resources
+D:\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Form3.resources
+D:\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Form4.resources
+D:\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Form5.resources
+D:\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Properties.Resources.resources
+D:\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csproj.GenerateResource.cache
+D:\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csproj.CoreCompileInputs.cache
+D:\WindowsFormsApp17\obj\Debug\WindowsF.E63CBB31.Up2Date
+D:\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.exe
+D:\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.pdb
+E:\WindowsFormsApp17\bin\Debug\System.Memory.dll
+E:\WindowsFormsApp17\bin\Debug\System.Numerics.Vectors.dll
+E:\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Juego_recetario.resources
+E:\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Form5.resources
+E:\WindowsFormsApp17\bin\Debug\MySql.Data.dll
+D:\Visual Studio\Proyecto\ioksxd\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.exe.config
+D:\Visual Studio\Proyecto\ioksxd\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.exe
+D:\Visual Studio\Proyecto\ioksxd\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.pdb
+D:\Visual Studio\Proyecto\ioksxd\WindowsFormsApp17\bin\Debug\System.Memory.dll
+D:\Visual Studio\Proyecto\ioksxd\WindowsFormsApp17\bin\Debug\System.Numerics.Vectors.dll
+D:\Visual Studio\Proyecto\ioksxd\WindowsFormsApp17\bin\Debug\MySql.Data.xml
+D:\Visual Studio\Proyecto\ioksxd\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csproj.AssemblyReference.cache
+D:\Visual Studio\Proyecto\ioksxd\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.exe.config
+D:\Visual Studio\Proyecto\ioksxd\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Form1.resources
+D:\Visual Studio\Proyecto\ioksxd\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Form2.resources
+D:\Visual Studio\Proyecto\ioksxd\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Form3.resources
+D:\Visual Studio\Proyecto\ioksxd\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Form4.resources
+D:\Visual Studio\Proyecto\ioksxd\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Form5.resources
+D:\Visual Studio\Proyecto\ioksxd\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Juego_recetario.resources
+D:\Visual Studio\Proyecto\ioksxd\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Properties.Resources.resources
+D:\Visual Studio\Proyecto\ioksxd\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csproj.GenerateResource.cache
+D:\Visual Studio\Proyecto\ioksxd\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Proyecto\ioksxd\WindowsFormsApp17\obj\Debug\WindowsF.E63CBB31.Up2Date
+D:\Visual Studio\Proyecto\ioksxd\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.exe
+D:\Visual Studio\Proyecto\ioksxd\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.pdb
+D:\Visual Studio\Proyecto\ioksxd\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Form6.resources
+D:\recetario bienestar 3\recetario bienestar\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.exe.config
+D:\recetario bienestar 3\recetario bienestar\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.exe
+D:\recetario bienestar 3\recetario bienestar\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.pdb
+D:\recetario bienestar 3\recetario bienestar\WindowsFormsApp17\bin\Debug\System.Memory.dll
+D:\recetario bienestar 3\recetario bienestar\WindowsFormsApp17\bin\Debug\System.Numerics.Vectors.dll
+D:\recetario bienestar 3\recetario bienestar\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csproj.AssemblyReference.cache
+D:\recetario bienestar 3\recetario bienestar\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.exe.config
+D:\recetario bienestar 3\recetario bienestar\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.fav.resources
+D:\recetario bienestar 3\recetario bienestar\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Form1.resources
+D:\recetario bienestar 3\recetario bienestar\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Form2.resources
+D:\recetario bienestar 3\recetario bienestar\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Form3.resources
+D:\recetario bienestar 3\recetario bienestar\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Form4.resources
+D:\recetario bienestar 3\recetario bienestar\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Form5.resources
+D:\recetario bienestar 3\recetario bienestar\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Form6.resources
+D:\recetario bienestar 3\recetario bienestar\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Juego_recetario.resources
+D:\recetario bienestar 3\recetario bienestar\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Properties.Resources.resources
+D:\recetario bienestar 3\recetario bienestar\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csproj.GenerateResource.cache
+D:\recetario bienestar 3\recetario bienestar\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csproj.CoreCompileInputs.cache
+D:\recetario bienestar 3\recetario bienestar\WindowsFormsApp17\obj\Debug\WindowsF.E63CBB31.Up2Date
+D:\recetario bienestar 3\recetario bienestar\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.exe
+D:\recetario bienestar 3\recetario bienestar\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.pdb
